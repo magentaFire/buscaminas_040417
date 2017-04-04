@@ -7,7 +7,6 @@ for (var i = 0; i < celdas.length; i++){
 
 reiniciaJuego.addEventListener("click", restart);
 
-
 function verificaCeldas(){
   if(this.className === "empty"){
     this.style.backgroundColor = "#cccccc"
