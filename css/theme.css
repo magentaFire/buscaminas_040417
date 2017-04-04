@@ -1,0 +1,16 @@
+body {
+  font-family: "new century schoolbook";
+}
+
+
+table, th, td, tr {
+  border: 1px solid black;
+}
+
+td, tr {
+  padding: 15px;
+}
+
+td {
+  background-color: #70a5aa;
+}
